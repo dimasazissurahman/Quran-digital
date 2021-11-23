@@ -1,0 +1,79 @@
+
+.buttonPrimary {
+    padding: 12px 35px;
+    color: #fff;
+    background-color: #ff7a00;
+    border: none;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .buttonPrimary:hover {
+    background-color: #ffa24d;
+  }
+  
+  .buttonPrimary:active {
+    background-color: #b25500;
+  }
+  
+  .buttonPrimary:disabled {
+    background-color: #ffe4cc;
+    cursor: inherit;
+  }
+  
+  .buttonSecondary {
+    padding: 10px;
+    color: #ff7a00;
+    background-color: transparent;
+    border: 2px solid #ff7a00;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .buttonSecondary:hover {
+    color: #fff;
+    border: 2px solid #ffa24d;
+    background-color: #ffa24d;
+  }
+  
+  .buttonSecondary:active {
+    color: #fff;
+    border: 2px solid #b25500;
+    background-color: #b25500;
+  }
+  
+  .buttonSecondary:disabled {
+    color: #ffe4cc;
+    border: 2px solid #ffe4cc;
+    background-color: transparent;
+    cursor: inherit;
+  }
+  
+  .buttonTertiary {
+    padding: 12px 35px;
+    color: #3c32e6;
+    background-color: #d8d6fa;
+    border: none;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .buttonTertiary:hover {
+    background-color: #ebeafc;
+  }
+  
+  .buttonTertiary:active {
+    background-color: #9e99f3;
+  }
+  
+  .buttonTertiary:disabled {
+    color: #cfccf9;
+    background-color: #f5f5fe;
+    cursor: inherit;
+  }

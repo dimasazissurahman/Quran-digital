@@ -1,0 +1,20 @@
+.header {
+    background-color: #919F88;
+    color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box-left > h1 {
+    margin: 0;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.box-right {
+    padding: 10px 0;
+}
+

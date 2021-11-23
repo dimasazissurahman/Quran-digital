@@ -1,0 +1,48 @@
+.box {
+    border: 1px solid #919F88;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.box-mid {
+    display: grid;
+    width: 80%;
+    margin-left: 15px;
+}
+
+.box-end {
+    width: 20%;
+    text-align: end;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+/* –––Card Section––– */
+
+.section-box {
+    border-bottom: 1px solid #919F88;
+    padding: 20px 15px;
+    text-align: end;
+}
+
+.section-box > p {
+    text-align: start;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.section-inside {
+    margin-top: 15px;
+    padding: 20px;
+}
